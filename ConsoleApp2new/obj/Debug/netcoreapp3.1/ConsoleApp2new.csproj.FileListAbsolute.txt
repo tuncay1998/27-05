@@ -1,0 +1,5 @@
+C:\Users\afand\source\repos\ConsoleApp2new\ConsoleApp2new\obj\Debug\netcoreapp3.1\ConsoleApp2new.csproj.AssemblyReference.cache
+C:\Users\afand\source\repos\ConsoleApp2new\ConsoleApp2new\obj\Debug\netcoreapp3.1\ConsoleApp2new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afand\source\repos\ConsoleApp2new\ConsoleApp2new\obj\Debug\netcoreapp3.1\ConsoleApp2new.AssemblyInfoInputs.cache
+C:\Users\afand\source\repos\ConsoleApp2new\ConsoleApp2new\obj\Debug\netcoreapp3.1\ConsoleApp2new.AssemblyInfo.cs
+C:\Users\afand\source\repos\ConsoleApp2new\ConsoleApp2new\obj\Debug\netcoreapp3.1\ConsoleApp2new.csproj.CoreCompileInputs.cache
